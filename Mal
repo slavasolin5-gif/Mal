@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "feat: initial singbox vpn setup"
+git branch -M main
+git remote add origin https://github.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ.git
+git push -u origin main
